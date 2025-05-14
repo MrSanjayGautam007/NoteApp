@@ -1,2 +1,2 @@
 # TodoApp
-A simple todo app
+A Note app
