@@ -1,2 +1,2 @@
-# TodoApp
+# Note App
 A Note app
